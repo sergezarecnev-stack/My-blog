@@ -8,7 +8,7 @@
 
 Я добавил первый файл - FLASK TUTORIAL.py
 Библиотеки, которые вам нужны - Flask. Вы можете скачать их двумя способами
-1. способ - Видите файл requirements.txt? Скачайте его с помощью pip install -r requirements.txt
+1. способ - Видите файл requirements.txt? Скачайте его с помощью "pip install -r requirements.txt"
 
 2. Способ - если первый способ не работает просто зайдите pip install flask
 
